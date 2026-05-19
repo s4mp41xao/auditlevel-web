@@ -80,7 +80,7 @@ export function Navbar({ onToggleTheme }: { onToggleTheme: () => void }) {
 
             {/* GitHub link */}
             <a
-              href="https://github.com"
+              href="https://github.com/s4mp41xao/auditlevel-web"
               target="_blank"
               rel="noopener noreferrer"
               className={`hidden sm:flex items-center gap-1.5 px-3 py-2 rounded-lg text-[13px] font-medium transition-colors ${
